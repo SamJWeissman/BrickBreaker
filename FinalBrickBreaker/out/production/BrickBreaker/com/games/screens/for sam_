@@ -1,0 +1,7 @@
+for sam:
+
+1) create a real scene list/graph.
+2) all scenes/screens inherit from a commmon class.
+3) sleep(17) smells.
+4) move all initialization logic for objects from screens to those objects.
+5) keep game state correctly between screens.
